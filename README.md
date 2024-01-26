@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Tasneem Said! 👋
 
-<!--
-**tasneemsaeed23/tasneemsaeed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/tasneemsaeed23?label=Follow&style=social)](https://github.com/tasneemsaeed23)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a fresh graduate from the Faculty of Electronic Engineering(computer science department), and I am passionate about front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Technologies
+
+- Programming Languages: HTML, CSS, JavaScript
+- Web Technologies: React, Bootstrap
+- Tools: Visual Studio Code, Git
+
+## 🌱 I’m currently learning
+
+- React, Bootstrap
+
+## 📫 How to reach me
+
+- Email: tasneemsaid02@gmail.com
+- LinkedIn: [Tasneem Said](https://www.linkedin.com/in/tasneem-said/)
+
+Happy coding!
