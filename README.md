@@ -6,13 +6,9 @@ Welcome to my GitHub profile! I'm a fresh graduate from the Faculty of Electroni
 
 ## 🚀 Skills and Technologies
 
-- Programming Languages: HTML, CSS, JavaScript, Bootstrap
-- Web Technologies: React, Bootstrap
+- Programming Languages: HTML, CSS, JavaScript
+- Web Technologies: React, Bootstrap, Bootstrap, Tailwind CSS
 - Tools: Visual Studio Code, Git
-
-## 🌱 I’m currently learning
-
-- React
 
 ## 📫 How to reach me
 
